@@ -2,9 +2,9 @@
 
 ## Identificação
 
-- Nome do aluno: Andressa S Santana
+- Nome do aluno: Andressa S Santana 
 - Formato da solução: Colab
-- Link do vídeo: [PREENCHER]
+- Link do vídeo: https://youtu.be/jLejDcSpjFA
 - Link do Colab, se aplicável: https://colab.research.google.com/drive/1ZELDtllyeuP-JsqjIcmA7U0eZyge34Vn?usp=sharing
 
 ## Objetivo
